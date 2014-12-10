@@ -1,0 +1,14 @@
+{
+  "name": "regex-examples",
+  "version": "0.0.0",
+  "description": "",
+  "main": "regex.js",
+  "scripts": {
+    "test": "mocha --reporter=nyan tests.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^1.9.1"
+  }
+}
